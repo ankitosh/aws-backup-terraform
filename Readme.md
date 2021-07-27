@@ -8,7 +8,7 @@
 <div align="center">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
+[![License](https://github.com/ankitosh/aws-backup-terraform/blob/main/LICENSE)](/LICENSE)
 
 </div>
 
