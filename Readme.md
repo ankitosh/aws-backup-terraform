@@ -7,8 +7,8 @@
 
 <div align="center">
 
-[![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![License](https://github.com/ankitosh/aws-backup-terraform/blob/main/LICENSE)](/LICENSE)
+[![CI](https://github.com/ankitosh/aws-backup-terraform/actions/workflows/blank.yml/badge.svg?branch=main)](https://github.com/ankitosh/aws-backup-terraform/actions/workflows/blank.yml)
+![License](https://github.com/ankitosh/aws-backup-terraform/blob/main/LICENSE)](/LICENSE)
 
 </div>
 
