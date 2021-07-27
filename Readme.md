@@ -1,14 +1,11 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="backup.png" alt="Project logo"></a>
+ <img width=200px height=200px src="logo.png" alt="Project logo"></a>
 </p>
 
 <h3 align="center">AWS Backup</h3>
 
 <div align="center">
-
-[![CI](https://github.com/ankitosh/aws-backup-terraform/actions/workflows/blank.yml/badge.svg?branch=main)](https://github.com/ankitosh/aws-backup-terraform/actions/workflows/blank.yml)
-![License](https://github.com/ankitosh/aws-backup-terraform/blob/main/LICENSE)](/LICENSE)
 
 </div>
 
