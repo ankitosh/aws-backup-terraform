@@ -22,7 +22,7 @@ resource "aws_backup_plan" "BackupPlan_Bronze" {
   }
 }
 
-resource "aws_backup_selection" "BackupResourceSelection1" {
+resource "aws_backup_selection" "BackupResourceSelection_Bronze" {
   name         = "Bronze_Resource_Assignment"
   plan_id      = aws_backup_plan.BackupPlan_Bronze.id
   iam_role_arn = aws_iam_role.IamRoleForAwsBackup.arn
