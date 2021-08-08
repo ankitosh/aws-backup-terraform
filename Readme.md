@@ -97,4 +97,4 @@ What things you need to install the software and how to install them.
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@ankitosh](https://github.com/ankitosh) - Idea & Initial work
+- [@ankitosh](https://github.com/ankitosh) - Idea & Initial work 
