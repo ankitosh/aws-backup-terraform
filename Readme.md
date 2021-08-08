@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">AWS Backup Terraform</h3>
-[![Terraform Apply](https://github.com/ankitosh/aws-backup-terraform/actions/workflows/blank.yml/badge.svg)](https://github.com/ankitosh/aws-backup-terraform/actions/workflows/blank.yml)
+
 <div align="center">
 
 </div>
