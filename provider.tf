@@ -1,7 +1,9 @@
-#data "aws_caller_identity" "current" {}
-provider "aws" {
-  region     = "eu-west-1"
+data "aws_caller_identity" "current" {
+  region = "eu-west-1"
 }
+# provider "aws" {
+#   region     = "eu-west-1"
+# }
 # terraform {
 
 #   backend "s3" {
