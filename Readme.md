@@ -40,7 +40,7 @@ These instructions will help the deloy the template on your AWS Environment for 
 ### Prerequisites
 
 What things you need to install the software and how to install them.
-  1. Hashicorp's Terraform  [check this link for terraform installation](https://www.terraform.io/downloads.html)
+  1. Hashicorp's Terraform or cli [check this link for terraform installation](https://www.terraform.io/downloads.html)
   2. AWS Credentials or IAM Role attached to instance.
 
 
